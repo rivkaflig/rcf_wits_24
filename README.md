@@ -22,5 +22,5 @@ All because of [Markdown Guide!](https://www.markdownguide.org/extended-syntax/)
 ---
 
 - [x] Learn how to code
-- [] Know what I'm doing
-- [] Write good code
+- [ ] Know what I'm doing
+- [ ] Write good code
