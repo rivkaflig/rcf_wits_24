@@ -1,1 +1,8 @@
 I just want to cause a conflict
+
+These are lines
+I'll change some lines elsewhere
+
+And hopefully it will work
+
+MERGE CONFLICT!!
