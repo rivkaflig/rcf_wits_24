@@ -5,5 +5,11 @@ These are lines
 
 I am simply trying to create a machlokes between branches
 Is that really so bad?
+I just want to cause a conflict
+
+These are lines
+I'll change some lines elsewhere
+
+And hopefully it will work
 
 MERGE CONFLICT!!
