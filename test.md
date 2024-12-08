@@ -10,11 +10,7 @@ With main
 
 This is kind of very confusing
 
-please just have problems!!
-
 I'm trying to create a conflict
 I hope this works
 
-I'm jut trying to start machlokes
-Very not nice of me
-
+Now please work!
