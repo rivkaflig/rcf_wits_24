@@ -6,7 +6,7 @@ I just want to understand git
 
 sqish my commits please!!
 
-But it is ever so complicated
+But *__git__* it is ever so complicated
 
 Why does it feel like this isn't working...
 
