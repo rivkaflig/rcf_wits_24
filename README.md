@@ -8,6 +8,7 @@ To learn about me learning programming!!
 
 
 >Programming Languages I've Learned:
+>- Creating conflicts on git
 >- Java 
 >- Python
 >- Assembly
