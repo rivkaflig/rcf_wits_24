@@ -1,0 +1,9 @@
+
+I just want to cause a conflict
+
+These are lines
+
+I am simply trying to create a machlokes between branches
+Is that really so bad?
+
+MERGE CONFLICT!!
