@@ -9,7 +9,7 @@ I just want to understand git
 
 sqish my commits please!!
 
-Squishing please !!!!
+Squishing please
 
 But *__git__* it is ever so complicated
 
